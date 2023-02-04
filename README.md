@@ -1,6 +1,6 @@
 
 
-## REACT JS - DRAG'N DROP APP
+## REACT JS - DRAG 'N DROP APP
 
 To install all dependencies run `npm install`
 
