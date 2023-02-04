@@ -12,6 +12,9 @@ To run the App use `npm run dev`
 
 To build the the aplication for production use `npm run build`
 
+This is still a sample app, and still under development.
+
+
 ![Main screen](https://github.com/romidevx/react-drag-drop/blob/main/src/assets/screenshots/main-screen.jpg)
 
 ![new item modal](https://github.com/romidevx/react-drag-drop/blob/main/src/assets/screenshots/new-item-modal.jpg)
