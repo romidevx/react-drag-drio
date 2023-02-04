@@ -12,6 +12,6 @@ To run the App use `npm run dev`
 
 To build the the aplication for production use `npm run build`
 
-![Main screen](https://github.com/romidevx/react-drag-drop/src/assets/screenshots/main-screen.jpg?raw=true)
+![Main screen](https://github.com/romidevx/react-drag-drop/blob/main/src/assets/screenshots/main-screen.jpg)
 
-![new item modal](https://github.com/romidevx/react-drag-drop/src/assets/screenshots/new-item-modal.jpg?raw=true)
+![new item modal](https://github.com/romidevx/react-drag-drop/blob/main/src/assets/screenshots/new-item-modal.jpg)
