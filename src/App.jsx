@@ -2,8 +2,8 @@ import { useState } from "react";
 import "./App.css";
 
 // COMPONENTS
-import Board from './components/board';
-import Header from "./components/header";
+import Board from './components/board/board';
+import Header from "./components/head/header";
 import NewItemModal from "./components/newItemModal/newItemModal";
 
 export default function App() {

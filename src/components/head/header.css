@@ -1,0 +1,21 @@
+
+/* ==== HEADER COMPONENT ====  */
+
+.header__title{
+  margin: 0 0 15px 0;
+}
+
+
+.add__button{
+  background: var(--red);
+  padding:4px 5px;
+  color:var(--white);
+  border:none;
+  margin:0 0 10px 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.add__button:hover{
+  opacity:.8;
+}

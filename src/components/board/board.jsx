@@ -1,8 +1,8 @@
-import '../App.css';
+import './board.css';
 import { useState } from 'react';
 // DATA
-import {projects} from '.././data/data';
-import {categories} from '.././data/data';
+import {projects} from '../../data/data';
+import {categories} from '../../data/data';
 
 function Board() {
 
